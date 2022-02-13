@@ -3,25 +3,34 @@
 ### my-Notes
 # My Information 
 
- My name is Hamza Hazaimeh, Im 25 years old, i live in Irbid, I studied mechanical engineer at albalqa applied university
-
+```
+ My name is Hamza Hazaimeh  , Im 25 years old, i live in Irbid, I studied mechanical engineer at albalqa applied university
+ 
+```
 
  # Contact information
-    - Mobile Number : +962795018492
-    - E-mail : H.hazaimeh96@gmail.com
-    - Linkedin : https://www.linkedin.com/in/hamza-hazaimeh-5b0252189
+
+My Info | Details
+--- | ---
+Email | H.hazaimeh96@gmail.com
+Linkedin | https://www.linkedin.com/in/hamza-hazaimeh-5b0252189
+Mobile Number  | +962795018492
+
 
 # Profile Pic
 
 ![image](https://www.freeiconspng.com/thumbs/profile-icon-png/profile-icon-9.png)
 
 # Summary
- the fundamentals of a good developer
 
-Every developer is suffering from many horror stories and they may affect the software in a negative way
+ ## The fundamentals of a good developer
+
+* Every developer is suffering from many horror stories and they may affect the software in a negative way
 
 
-The points that should every developer master 
+*The points that should every developer master*
+
+ ```
 
 1-Conceiving The Purpose of Software
 
