@@ -32,7 +32,8 @@ when your design be easy for you and helpful for others the program will have al
 
 3- (Mis)understanding
 
-to be good developer should understand all the systems and tools you working with
+to be good developer should 
+-understand all the systems and tools you working with
 
 4- Simplicity
 the program should be basic until the other programmer read it eaisly
